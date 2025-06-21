@@ -1,6 +1,7 @@
 {
   "name": "ejercicio-web",
   "version": "0.1.0", 
+  "homepage": "https://DoloresSalinas.github.io/web-practica/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
